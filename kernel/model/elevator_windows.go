@@ -106,7 +106,7 @@ func AutoCheckMicrosoftDefender() {
 		return
 	}
 
-	util.PushMsg(Conf.language(252), 0)
+	//util.PushMsg(Conf.language(252), 0)
 }
 
 func isUsingMicrosoftDefender() bool {
